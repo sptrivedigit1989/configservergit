@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to prod with busrefresh Accounts MS Bank stored into git"
+  message: "Welcome to prod with webhook automation Accounts MS Bank stored into git"
   contactDetails:
     name: "John Doe Prod"
     email: "{cipher}8658d30630f757a8170b10aa33d51db4931e8dae5e8e1e6fa3e5f9956c00c8199dd1636ebc08f7d449c28a04e4921570a489a54a36534b84837966b724188990"
