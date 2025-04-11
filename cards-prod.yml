@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Prod busrefresh Cards MS Bank in git system"
+  message: "Welcome to Prod webhook cli Cards MS Bank in git system"
   contactDetails:
     name: "John Doe"
     email: "john@cards.prod.eazybank.com"
