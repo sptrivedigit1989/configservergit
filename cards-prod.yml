@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Prod Cards MS Bank in git system"
+  contactDetails:
+    name: "John Doe"
+    email: "john@cards.prod.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285
+

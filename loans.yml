@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Dev Loans MS Bank"
+  contactDetails:
+    name: "John Doe"
+    email: "john@loans.dev.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285
+
+

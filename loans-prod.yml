@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Prod Loans MS Bank supported by git"
+  contactDetails:
+    name: "John Doe"
+    email: "john@loans.prod.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285

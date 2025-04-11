@@ -1,0 +1,11 @@
+build:
+  version: "2222.0"
+
+loans:
+  message: "Welcome to QA Loans MS Bank"
+  contactDetails:
+    name: "John Doe"
+    email: "john@loans.qa.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to QA Accounts MS Bank"
+  contactDetails:
+    name: "John Doe QA"
+    email: "john@accounts.qa.eazybank.com"
+  onCallSupport:
+    - (555) 855-2324
+    - (555) 823-2285

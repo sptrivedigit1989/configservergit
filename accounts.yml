@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Dev Accounts MS Bank"
+  contactDetails:
+    name: "John Doe"
+    email: "john@accounts.dev.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285

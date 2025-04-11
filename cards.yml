@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Dev Cards MS Bank"
+  contactDetails:
+    name: "John Doe"
+    email: "john@cards.dev.eazybank.com"
+  onCallSupport:
+    - (555) 555-1324
+    - (555) 523-1285
