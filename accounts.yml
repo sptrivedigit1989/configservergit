@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Dev Accounts MS Bank"
+  message: "Welcome to Dev docker hookdeck updated Accounts MS Bank"
   contactDetails:
     name: "John Doe"
     email: "john@accounts.dev.eazybank.com"
